@@ -1,0 +1,3 @@
+batch_size: 100
+n_hidden: 100
+num_classes: 10
